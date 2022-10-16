@@ -54,6 +54,9 @@
     <keyboard-shortcut first-keystroke="alt 9" />
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
