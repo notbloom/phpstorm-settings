@@ -122,7 +122,7 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
