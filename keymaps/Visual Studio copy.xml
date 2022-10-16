@@ -130,6 +130,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
