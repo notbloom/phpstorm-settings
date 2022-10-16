@@ -138,4 +138,8 @@
   <action id="nl.deschepers.laraveltinker.action.RunConsoleAction">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="nl.deschepers.laraveltinker.action.SmartAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
 </keymap>
