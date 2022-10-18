@@ -1,3 +1,3 @@
 # phpstorm-settings
 
-php storm settings based on Freek Van der Herten's
+PhpStorm settings for OSX based on Freek Van der Herten's
