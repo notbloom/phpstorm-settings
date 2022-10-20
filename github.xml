@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="notbloom" id="ec10f56a-f7e9-4403-9f95-d5fd99c84dab">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
