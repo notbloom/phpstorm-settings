@@ -57,6 +57,9 @@
     <keyboard-shortcut first-keystroke="alt 9" />
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
@@ -124,6 +127,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="shift meta s" />
@@ -138,6 +144,9 @@
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="meta v" />
