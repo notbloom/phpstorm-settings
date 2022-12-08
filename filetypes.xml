@@ -40,7 +40,6 @@
       <mapping pattern=".distignore" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="view" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -54,6 +53,9 @@
       <removed_mapping pattern="first-party-extensions.md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="making-solutions-runnable" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sharing-error-occurrences" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.php.stub" type="PHP" />
+      <mapping ext="stub" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
     </extensionMap>
   </component>
 </application>

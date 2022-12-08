@@ -12,5 +12,7 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="474747" />
     <entry key="editor.focus.mode.color.dark" value="474747" />
+    <entry key="rdclient.asyncActions" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
