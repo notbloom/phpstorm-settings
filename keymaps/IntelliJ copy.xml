@@ -5,6 +5,8 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
@@ -17,11 +19,21 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="RiderCoveringTestsPopupDebugAction" />
+  <action id="RiderCoveringTestsPopupRunAllAction" />
   <action id="RiderNuGetToggleDependenciesExpanderAction" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="Vcs.Log.Refresh" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
