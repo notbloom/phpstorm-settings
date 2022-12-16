@@ -1,5 +1,9 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
   <action id="AssemblyDiffAction" />
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
@@ -34,6 +38,7 @@
   <action id="RiderCoveringTestsPopupDebugAction" />
   <action id="RiderCoveringTestsPopupRunAllAction" />
   <action id="RiderNuGetToggleDependenciesExpanderAction" />
+  <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
@@ -42,4 +47,5 @@
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
