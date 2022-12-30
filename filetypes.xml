@@ -53,9 +53,6 @@
       <removed_mapping pattern="first-party-extensions.md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="making-solutions-runnable" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sharing-error-occurrences" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="*.php.stub" type="PHP" />
-      <mapping ext="stub" type="PHP" />
-      <mapping pattern=".php_cs" type="PHP" />
     </extensionMap>
   </component>
 </application>
